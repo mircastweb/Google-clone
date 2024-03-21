@@ -1,3 +1,5 @@
-# Google-clone
+<center>
 
-mircastweb.com/google-clone
+<img src="./google.png" alt="amazon Poster"/>
+
+</center>
